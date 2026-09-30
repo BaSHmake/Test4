@@ -1,0 +1,19 @@
+body {
+ background: rgba(255, 155, 20, 0.35);
+ owerflow: hidden;
+ color: black;
+ display: flex;
+ text-align: center;
+}
+
+header {
+ width: 100%;
+ height: 200px
+ display: flex;
+ align-items: center;
+ justify-content: center; 
+ color: black;
+ background: red; 
+ border: 4px solid black;
+ margin-bottom: 40px;
+}
