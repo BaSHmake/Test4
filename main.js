@@ -23,7 +23,7 @@
  alert("Птенцы кричат от голода! Тысяча птенцов! "); 
 } else if(num4 <= 123) {
  alert("Чё то маловато..");
-} else if(RasVDenNadoPukat == false); {
+} else if(RasVDenNadoPukat == false) {
  alert("Ты что мне сейчас сказал 🤬😡🤬😡🤬") 
 } else {
  alert("Чё?... Ты хрень какую-то сделал, чел") 
