@@ -5,9 +5,26 @@
   var num1 = 67;
   var num2 = 69;
   var num3 = 42;
+  var num4 = 228;
+  var RasVDenNadoPukat = true;
+
+
+
   document.write("сливы, виноград, щавель, " + ouno + "!");
   console.log("Бррр Бррр Патапим");
   alert("В ходе тяжёлых вычислений получилось число: " + (num1 * num2 - num3) + "Вычисления были настолько тяжёлыми, что я предлагаю заменить число Пи (" + Math.PI + ") этим!");
   num1 -= 3;
   alert("Кстати, я не говорил, но мое любимое число:  " + num1); 
+
   
+  if(num4 <= 666 && RasVDenNadoPukat == true) {
+ alert("Ты прям как мама-птица! "); 
+} else if(num4 <= 666 || RasVDenNadoPukat == true) {
+ alert("Птенцы кричат от голода! Тысяча птенцов! "); 
+} else if(num4 <= 123) {
+ alert("Чё то маловато..");
+} else if(RasVDenNadoPukat == false); {
+ alert("Ты что мне сейчас сказал 🤬😡🤬😡🤬") 
+} else {
+ alert("Чё?... Ты хрень какую-то сделал, чел") 
+}
