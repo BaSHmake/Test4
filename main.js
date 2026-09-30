@@ -28,3 +28,17 @@
 } else {
  alert("Чё?... Ты хрень какую-то сделал, чел") 
 }
+
+  switch(pepe) {
+ case "шнейне": 
+ console.log("фафофафофафо");
+ break;
+ case "ватафа":
+ console.log("жэжэжэжэжэжэ");
+ break;
+ case "фо":
+ console.log("ыхыхыхыхыхыхы");
+ break;
+ default:
+ console.log("броооооооооо") 
+}
