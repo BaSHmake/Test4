@@ -7,6 +7,7 @@
   var num3 = 42;
   var num4 = 228;
   var RasVDenNadoPukat = true;
+  var nums1 = [13, 65, 14, 64]
 
 
 
