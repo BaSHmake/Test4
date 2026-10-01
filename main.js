@@ -63,4 +63,5 @@
 } while(num3 >= 0);
   
   for(var hiha = 0; hiha < nums1.length; hiha++) { 
- console.log("Элемент " + (hiha + 1) + ": " + (nums1[hiha]) ) 
+ console.log("Элемент " + (hiha + 1) + ": " + (nums1[hiha]) ); 
+}
