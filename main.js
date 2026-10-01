@@ -45,9 +45,9 @@
  console.log("ыхыхыхыхыхыхы");
  break;
  default:
- console.log("броооооооооо") 
-};
+ console.log("броооооооооо");
+}
 
   for(var gul = 1000; gul > 0; gul -= 7) {
  console.log(gul);
-};
+}
