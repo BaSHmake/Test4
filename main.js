@@ -56,4 +56,4 @@
     continue;
  console.log(num3);
  num3 -= 4.5;
-} while(num >= 0);
+} while(num3 >= 0);
