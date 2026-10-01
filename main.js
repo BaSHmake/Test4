@@ -7,12 +7,12 @@
   var num3 = 42;
   var num4 = 228;
   var RasVDenNadoPukat = true;
-  var nums1 = [13, 65, 14, 64]
+  var nums1 = [13, 65, 14, 64];
   var bukvi = [ 
     ["a", "b", "c"],
     ["haha", "i", "g"],
-    ["x", "y", "z"] ]
-  bukvi[1][0] = "h"
+    ["x", "y", "z"] ];
+  bukvi[1][0] = "h";
 
 
   document.write("сливы, виноград, щавель, " + ouno + "!");
@@ -46,8 +46,8 @@
  break;
  default:
  console.log("броооооооооо") 
-}
+};
 
   for(var gul = 1000; gul > 0; gul -= 7) {
  console.log(gul);
-}
+};
