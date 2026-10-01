@@ -15,11 +15,13 @@
   bukvi[1][0] = "h";
 
 
+
   document.write("сливы, виноград, щавель, " + ouno + "!");
   console.log("Бррр Бррр Патапим");
   alert("В ходе тяжёлых вычислений получилось число: " + (num1 * num2 - num3) + "Вычисления были настолько тяжёлыми, что я предлагаю заменить число Пи (" + Math.PI + ") этим!");
   num1 -= 3;
   alert("Кстати, я не говорил, но мое любимое число:  " + num1); 
+
 
   
   if(num4 <= 666 && RasVDenNadoPukat == true) {
@@ -33,6 +35,7 @@
 } else {
  alert("Чё?... Ты хрень какую-то сделал, чел") 
 }
+
 
   switch(pepe) {
  case "шнейне": 
@@ -48,6 +51,7 @@
  console.log("броооооооооо");
 }
 
+
   for(var gul = 1000; gul > 0; gul -= 7) {
  console.log(gul);
 }
@@ -57,3 +61,6 @@
  console.log(num3);
  num3 -= 4.5;
 } while(num3 >= 0);
+  
+  for(var hiha = 0; hiha < nums1.length; hiha++) { 
+ console.log("Элемент " + (hiha + 1) + ": " + (nums1[hiha]) ) 
