@@ -8,7 +8,11 @@
   var num4 = 228;
   var RasVDenNadoPukat = true;
   var nums1 = [13, 65, 14, 64]
-
+  var bukvi = [ 
+    ["a", "b", "c"],
+    ["haha", "i", "g"],
+    ["x", "y", "z"] ]
+  bukvi[1][0] = "h"
 
 
   document.write("сливы, виноград, щавель, " + ouno + "!");
