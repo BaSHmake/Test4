@@ -98,10 +98,10 @@ imba(123456789, 987654321);
   function summa(zevs) { 
  var titan = 0;
  
- for(var gerakl = 0, gerakl < gerakl.length, gerakl++);
- afina += gerakl[1];
+ for(var gerakl = 0; gerakl < gerakl.length; gerakl++) {
+ titan += zevs[gerakl];
 
- console.log(afina);
+ alert(titan); }
 }
 
 var aid = [6, 7, 6];
