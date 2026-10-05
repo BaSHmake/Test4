@@ -79,4 +79,15 @@ alert(" TЬI 4T0 MH3 C3Й4АС  СkA3AЛ!¿¡? ")
     alert("Теперь вы " + name)
 } else {
 alert("Хорошо, вы так и остались " + name) 
+
+  function genius(evgenius) {
+ console.log(evgenius + " - немало") 
+}
+
+  function imba(popa, jopa) {
+ var itogo = popa + jopa;
+ genius(itogo);
+}
+
+imba(123456789, 987654321);
     
