@@ -63,7 +63,7 @@ alert(" TЬI 4T0 MH3 C3Й4АС  СkA3AЛ!¿¡? ")
  console.log(gul);
 }
   do {
-   if(num3 % 3 != 0) 
+   if(num3 % 3 == 0) 
     continue;
  console.log(num3);
  num3 -= 4.5;
@@ -79,6 +79,7 @@ alert(" TЬI 4T0 MH3 C3Й4АС  СkA3AЛ!¿¡? ")
     alert("Теперь вы " + name)
 } else {
 alert("Хорошо, вы так и остались " + name) 
+}
 
 
 
