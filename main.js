@@ -80,6 +80,8 @@ alert(" TЬI 4T0 MH3 C3Й4АС  СkA3AЛ!¿¡? ")
 } else {
 alert("Хорошо, вы так и остались " + name) 
 
+
+
   function genius(evgenius) {
  console.log(evgenius + " - немало") 
 }
@@ -90,4 +92,25 @@ alert("Хорошо, вы так и остались " + name)
 }
 
 imba(123456789, 987654321);
-    
+
+
+
+  function summa(zevs) { 
+ var titan = 0;
+ 
+ for(var gerakl = 0, gerakl < gerakl.length, gerakl++);
+ afina += gerakl[1];
+
+ console.log(afina);
+}
+
+var aid = [6, 7, 6];
+var poseidon = [2, 8, 6];
+var geia =[4, 5, 9];
+
+summa(aid);
+summa(poseidon);
+summa(geia);
+
+
+
