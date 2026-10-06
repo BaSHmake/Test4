@@ -73,13 +73,13 @@ alert(" TЬI 4T0 MH3 C3Й4АС  СkA3AЛ!¿¡? ")
  console.log("Элемент " + (hiha + 1) + ": " + (nums1[hiha]) ); 
 }
 
-  var nameme = confirm("Хотите выбрать имя пользователя?") 
+ /* var nameme = confirm("Хотите выбрать имя пользователя?") 
    if(nameme) { 
     name = prompt("Введите ваше имя")
     alert("Теперь вы " + name)
 } else {
 alert("Хорошо, вы так и остались " + name) 
-}
+} */
 
 
 
