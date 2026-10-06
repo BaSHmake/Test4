@@ -102,7 +102,7 @@ imba(123456789, 987654321);
  for(var gerakl = 0; gerakl < zevs.length; gerakl++) {
  titan += zevs[gerakl];
 
- alert(titan); }
+ document.write(titan); }
 }
 
 var aid = [6, 7, 6];
