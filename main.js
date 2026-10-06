@@ -1,4 +1,4 @@
-  var ouno = "омайгад";
+*/  var ouno = "омайгад";
   var author = "BaSHmake";
   var pepe = "ватафа";
   const speed = "Хеппи Дей, Роналду Дей!!";
@@ -19,7 +19,7 @@
 
   document.getElementById('chacha').innerHTML += "<p>сливы, виноград, щавель, " + ouno + "!</p>";
   console.log("Бррр Бррр Патапим");
-/*  alert("В ходе тяжёлых вычислений получилось число: " + (num1 * num2 - num3) + "Вычисления были настолько тяжёлыми, что я предлагаю заменить число Пи (" + Math.PI + ") этим!");
+  alert("В ходе тяжёлых вычислений получилось число: " + (num1 * num2 - num3) + "Вычисления были настолько тяжёлыми, что я предлагаю заменить число Пи (" + Math.PI + ") этим!");
   num1 -= 3;
   var danet = confirm("Кстати, я не говорил, но мое любимое число:  " + num1 + "А тебе оно нравится?" ); 
   if(danet == true) {
@@ -28,7 +28,6 @@ alert(" Отлично ")
   if(danet == false) {
 alert(" TЬI 4T0 MH3 C3Й4АС  СkA3AЛ!¿¡? ") 
 } 
-Временный комент */
 
 
   
@@ -74,13 +73,13 @@ alert(" TЬI 4T0 MH3 C3Й4АС  СkA3AЛ!¿¡? ")
  console.log("Элемент " + (hiha + 1) + ": " + (nums1[hiha]) ); 
 }
 
- /* var nameme = confirm("Хотите выбрать имя пользователя?") 
+  var nameme = confirm("Хотите выбрать имя пользователя?") 
    if(nameme) { 
     name = prompt("Введите ваше имя")
     alert("Теперь вы " + name)
 } else {
 alert("Хорошо, вы так и остались " + name) 
-} */
+} 
 
 
 
@@ -112,7 +111,8 @@ var geia =[4, 5, 9];
 
 summa(aid);
 summa(poseidon);
-summa(geia);
+summa(geia); */
 
 
 
+document.getElementById('chacha').innerHTML += "Ты меня видишь? "
