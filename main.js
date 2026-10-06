@@ -17,7 +17,7 @@
 
 
 
-  document.getElementById('chacha').innerHTML("<p>сливы, виноград, щавель, " + ouno + "!</p>");
+  document.getElementById('chacha').innerHTML += "<p>сливы, виноград, щавель, " + ouno + "!</p>";
   console.log("Бррр Бррр Патапим");
   alert("В ходе тяжёлых вычислений получилось число: " + (num1 * num2 - num3) + "Вычисления были настолько тяжёлыми, что я предлагаю заменить число Пи (" + Math.PI + ") этим!");
   num1 -= 3;
