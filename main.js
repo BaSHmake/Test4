@@ -102,7 +102,7 @@ imba(123456789, 987654321);
  for(var gerakl = 0; gerakl < zevs.length; gerakl++) {
  titan += zevs[gerakl];
 
- document.getElementById('chacha').innerHTML += "<p>Сумма: " + titan + "</p>"; }
+ document.getElementById("chacha").innerHTML += "<p>Сумма: " + titan + "</p>"; }
 }
 
 var aid = [6, 7, 6];
@@ -115,4 +115,3 @@ summa(geia); */
 
 
 
-document.getElementById('chacha').innerHTML += "Ты меня видишь? "
