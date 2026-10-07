@@ -17,10 +17,10 @@
 
 
 
-  document.getElementById('chacha').innerHTML += "<p>сливы, виноград, щавель, " + ouno + "!</p>";
+  document.getElementById("chacha").innerHTML += "<p>сливы, виноград, щавель, " + ouno + "!</p>";
   console.log("Бррр Бррр Патапим");
-  alert("В ходе тяжёлых вычислений получилось число: " + (num1 * num2 - num3) + "Вычисления были настолько тяжёлыми, что я предлагаю заменить число Пи (" + Math.PI + ") этим!");
-  num1 -= 3;
+/*  alert("В ходе тяжёлых вычислений получилось число: " + (num1 * num2 - num3) + "Вычисления были настолько тяжёлыми, что я предлагаю заменить число Пи (" + Math.PI + ") этим!"); */
+  num1 -= 3; 
   var danet = confirm("Кстати, я не говорил, но мое любимое число:  " + num1 + "А тебе оно нравится?" ); 
   if(danet == true) {
 alert(" Отлично ")
@@ -31,7 +31,7 @@ alert(" TЬI 4T0 MH3 C3Й4АС  СkA3AЛ!¿¡? ")
 
 
   
-  if(num4 <= 666 && RasVDenNadoPukat == true) {
+/*  if(num4 <= 666 && RasVDenNadoPukat == true) {
  alert("Ты прям как мама-птица! "); 
 } else if(num4 <= 666 || RasVDenNadoPukat == true) {
  alert("Птенцы кричат от голода! Тысяча птенцов! "); 
@@ -41,7 +41,7 @@ alert(" TЬI 4T0 MH3 C3Й4АС  СkA3AЛ!¿¡? ")
  alert("Ты что мне сейчас сказал 🤬😡🤬😡🤬") 
 } else {
  alert("Чё?... Ты хрень какую-то сделал, чел") 
-}
+} */
 
 
   switch(pepe) {
