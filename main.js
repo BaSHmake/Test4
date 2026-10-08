@@ -1,4 +1,4 @@
-*/  var ouno = "омайгад";
+  var ouno = "омайгад";
   var author = "BaSHmake";
   var pepe = "ватафа";
   const speed = "Хеппи Дей, Роналду Дей!!";
@@ -111,7 +111,7 @@ var geia =[4, 5, 9];
 
 summa(aid);
 summa(poseidon);
-summa(geia); */
+summa(geia); 
 
 
 
