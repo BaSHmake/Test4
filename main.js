@@ -17,7 +17,7 @@
 
 
 
-  document.getElementById("chacha").innerHTML += "<p>сливы, виноград, щавель, " + ouno + "!</p>";
+  document.getElementById("abc").innerHTML += "<p>сливы, виноград, щавель, " + ouno + "!</p>";
   console.log("Бррр Бррр Патапим");
 /*  alert("В ходе тяжёлых вычислений получилось число: " + (num1 * num2 - num3) + "Вычисления были настолько тяжёлыми, что я предлагаю заменить число Пи (" + Math.PI + ") этим!"); */
   num1 -= 3; 
@@ -102,7 +102,7 @@ imba(123456789, 987654321);
  for(var gerakl = 0; gerakl < zevs.length; gerakl++) {
  titan += zevs[gerakl];
 
- document.getElementById("chacha").innerHTML += "<p>Сумма: " + titan + "</p>"; }
+ document.getElementById("abc").innerHTML += "<p>Сумма: " + titan + "</p>"; }
 }
 
 var aid = [6, 7, 6];
